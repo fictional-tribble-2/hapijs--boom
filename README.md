@@ -3,7 +3,7 @@
 HTTP-friendly error objects
 
 [![Build Status](https://secure.travis-ci.org/hapijs/boom.svg)](http://travis-ci.org/hapijs/boom)
-[![Current Version](https://img.shields.io/npm/v/boom.svg)](https://www.npmjs.com/package/boom) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/hapijs--boom.svg)](https://www.staging.guardrails.io)
+[![Current Version](https://img.shields.io/npm/v/boom.svg)](https://www.npmjs.com/package/boom) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/hapijs--boom.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/hapijs--boom.svg)](https://www.guardrails.io)
 
 Lead Maintainer: [Adam Bretz](https://github.com/arb)
 
